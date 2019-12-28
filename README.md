@@ -12,4 +12,10 @@ The following classification algorithms were used.
   - Logistic Regression
   - SGD 
   
+  # Results
+  
+  #Accuracy of KNN
+  
+  <img src='https://github.com/Amaljayaranga/NewsArticle-Classification/blob/master/knn_lem.png'>
+  <img src='https://github.com/Amaljayaranga/NewsArticle-Classification/blob/master/knn_port.png'>
 
